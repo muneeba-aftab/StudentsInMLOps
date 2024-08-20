@@ -1,1 +1,1 @@
-# StudentsInMLOps
+# Workflow in MLOPs
